@@ -1,9 +1,9 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center" role="heading" >Hi 👋, I'm Nicole Barrero </h1>
+<h1 align="center" role="heading" >Hi I'm Nicole Barrero 👋</h1>
 
 **`Full-stack Software Developer `**
 
-I'm a full-stack software developer that just recently graduated with honours from seneca college ready to embark on my digital journey one step at a time. All coding projects are coded by me from the ground up for school-workshops, school-projects, personal-projects, tutorials and code reviews, from ideation and planning, all the way to finalizing the project with my own personal touches. Welcome and lets start this journey together! 
+I'm a software developer that just recently graduated from Seneca College ready to embark on my digital journey one step at a time. All coding projects are coded by me from the ground up for school-workshops, school-projects, personal-projects, tutorials and code reviews, from ideation and planning, all the way to finalizing the project with my own personal touches. Welcome and lets start this journey together! 
 <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NicoleAlexBarrero&label=Profile%20views&color=0e75b6&style=flat" alt="sahil3250" /> </p>
 
